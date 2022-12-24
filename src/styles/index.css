@@ -1,38 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
 
 :root {
-  font-family: Poppins, Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  font-weight: 400;
+	font-family: Poppins, Inter, Avenir, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
 
-  color-scheme: light dark;
-  background-color: #ffffff;
+	color-scheme: light dark;
+	background-color: #ffffff;
 
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
 	box-sizing: border-box;
 }
 
 a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+	font-weight: 500;
+	color: #646cff;
+	text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+	color: #535bf2;
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
+	margin: 0;
+	place-items: center;
 	justify-content: center;
-  min-width: 320px;
-  min-height: 100vh;
+	min-width: 320px;
+	min-height: 100vh;
 }
 
 .gmbr {
@@ -57,59 +56,59 @@ img {
 }
 
 Link {
-	color: #0071B8;
+	color: #0071b8;
 }
 
 h1 {
-	color: #0071B8;
+	color: #0071b8;
 	font-weight: bold;
 	text-align: center;
-  font-size: 3.2em;
-  line-height: 1.1;
+	font-size: 3.2em;
+	line-height: 1.1;
 }
 
 p {
-	color: #00A1BA;
+	color: #00a1ba;
 	font-weight: bold;
 }
 
-a{
+a {
 	color: white;
 	font-weight: bold;
 }
 
 button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
+	border-radius: 8px;
+	border: 1px solid transparent;
+	padding: 0.6em 1.2em;
+	font-size: 1em;
 	color: white;
-  font-weight: 500;
-  font-family: inherit;
-  background: linear-gradient(to right, #749919, #009EB6);
-  cursor: pointer;
-  transition: 0.25s;
+	font-weight: 500;
+	font-family: inherit;
+	background: linear-gradient(to right, #749919, #009eb6);
+	cursor: pointer;
+	transition: 0.25s;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.342);
 }
 button:hover {
-  border-color: #646cff;
+	border-color: #646cff;
 	color: white;
 }
 button:focus,
 button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+	outline: 4px auto -webkit-focus-ring-color;
 }
 
 @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
+	:root {
+		color: #213547;
+		background-color: #ffffff;
+	}
+	a:hover {
+		color: #747bff;
 		font-weight: bold;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+	}
+	button {
+		background-color: #f9f9f9;
+	}
 }

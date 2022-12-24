@@ -1,9 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Navbar from '../components/Navbar';
 
 function Wish() {
-	return (
-		<div>Wish</div>
-	)
+  return (
+    <>
+      <Navbar />
+      <div>Wish</div>
+    </>
+  );
 }
 
-export default Wish
+export default Wish;
