@@ -73,7 +73,7 @@ function Homepage() {
 						<img className='foto' src={Hadiah} alt="" />
 					</figure>
 					<p>
-							Sesampainya di Malang aku sama kamu ketemuan di puppy, abis itu kita ke MIXUE, disana aku ngasih oleh2 dari jkt dan aku kasih ke kamu. Waktu kamu buka kamu seneng bgt, mukanya lgsg ceria bgt, gemes klau inget2 ekspresi kamu waktu unboxing
+							Sesampainya di Malang aku sama kamu ketemuan di yoshinoya, abis itu kita ke MIXUE, disana aku ngasih oleh2 dari jkt dan aku kasih ke kamu. Waktu kamu buka kamu seneng bgt, mukanya lgsg ceria bgt, gemes klau inget2 ekspresi kamu waktu unboxing
 					</p>
 				</article>
 				<article className="card">
