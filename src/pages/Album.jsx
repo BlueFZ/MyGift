@@ -2,7 +2,7 @@ import React from 'react'
 
 function Album() {
 	return (
-		<div>Album</div>
+		<h1>wfafawfa</h1>
 	)
 }
 

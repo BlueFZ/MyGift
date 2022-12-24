@@ -1,4 +1,4 @@
-// import Link from 'react-router-dom'
+
 import React from 'react'
 import Foto from '../assets/thumb.jpg'
 
@@ -17,7 +17,7 @@ function Landing() {
 				</p>
 				<div className="but-container">
 					<button>
-						<a href="../../home.html">Next</a>
+						<a href="../../home.html">NEXT</a>
 					</button>
 				</div>
 			</div>
