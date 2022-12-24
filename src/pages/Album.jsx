@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
+import Navbar from "../components/Navbar";
 
 function Album() {
 	return (
-		<h1>wfafawfa</h1>
-	)
+		<div style={{ minWidth: "100vw" }}>
+			<Navbar />
+			<h1>wfafawfa</h1>
+		</div>
+	);
 }
 
-export default Album
+export default Album;
