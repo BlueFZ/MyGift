@@ -28,9 +28,6 @@ function Landing() {
           <Link to="/milestone">
             <button>NEXT</button>
           </Link>
-          {/* <button>
-						<a href="../../home.html">NEXT</a>
-					</button> */}
         </div>
       </div>
     </div>
