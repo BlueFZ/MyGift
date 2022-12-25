@@ -74,6 +74,10 @@ h1 {
 	margin-bottom: -5px;
 }
 
+.h1-landing h1 {
+	margin-top: 25px;
+}
+
 p {
 	color: #00a1ba;
 	font-weight: bold;
