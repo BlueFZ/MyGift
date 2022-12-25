@@ -47,6 +47,7 @@ img {
 .container {
 	max-width: 60rem;
 	padding: 1.3em;
+	margin-top: 0px;
 }
 
 .but-container {

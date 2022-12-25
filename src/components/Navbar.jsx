@@ -6,19 +6,13 @@ export default function Navbar() {
     <nav>
       <ul>
         <li>
-          <a>
-            <Link to="/milestone">Milestone</Link>
-          </a>
+          <Link className='a' to="/milestone">Milestone</Link>
         </li>
         <li>
-          <a>
-            <Link to="/album">Album</Link>
-          </a>
+          <Link className='a' to="/album">Album</Link>
         </li>
         <li>
-          <a>
-            <Link to="/wish">Wish</Link>
-          </a>
+          <Link className='a' to="/wish">Wish</Link>
         </li>
       </ul>
     </nav>
