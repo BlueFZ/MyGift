@@ -36,7 +36,7 @@ ul {
 	display: flex;
 	padding-left: 0px;
 	list-style: none;
-	justify-content: space-evenly;
+	justify-content: center;
 }
 
 .a {

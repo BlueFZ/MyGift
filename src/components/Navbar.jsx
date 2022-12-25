@@ -9,9 +9,6 @@ export default function Navbar() {
           <Link className='a' to="/milestone">Milestone</Link>
         </li>
         <li>
-          <Link className='a' to="/album">Album</Link>
-        </li>
-        <li>
           <Link className='a' to="/wish">Wish</Link>
         </li>
       </ul>
